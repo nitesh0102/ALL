@@ -1,0 +1,15 @@
+%sql 
+select quarter(01_DateTime) as qtr, `Gaming_Non-Gaming`,Current_Team,
+sum (`17_Burn`) as burn, 
+count (distinct a.`05_Publisher_GUID`) as total_accounts,
+sum(a.`18_Margin`) as net_margin,
+count(distinct case when adunit_type_exp = 'Rewarded Video' then 05_Publisher_GUID end) as RV_enabled_accounts,
+sum(case when adunit_type_exp = 'Rewarded Video' then a.`17_Burn` end) as RV_enabled_burn,
+count(distinct case when placement_type in ('INTERSTITIAL','VIDEO') then 05_Publisher_GUID end) as large_format_accounts,
+sum(case when placement_type  in ('INTERSTITIAL','VIDEO') then a.`17_Burn` end) as large_format_burn
+from cdr_adhoc_analysis.default.GR_IXSupply_CSMRevenue_AdRequests a 
+join  cdr_adhoc_analysis.default.gr_ix_publisher_meta_data_Mapping b on a.05_Publisher_GUID = b.Publisher_GUID
+left join cdr.exchange_metadata.ix_site_placement as c on a.`14_Placement_ID`=c.placement_id
+where a.`01_DateTime` >= '2023-01-01' and a.`01_DateTime` <= '2023-12-31'
+group by 1,2,3
+

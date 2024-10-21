@@ -1,0 +1,14 @@
+INFO:root:this is my line of education
+INFO:root:this my second line of exection
+ERROR:root:this is my error
+INFO:root:this my second line of execu/tion
+ERROR:root:this is my error
+INFO:root:this is my line of education
+WARNING:root:this is warning
+INFO:root:this is my line of education
+INFO:root:this is my line of education
+INFO:root:this is my line of education
+INFO:root:this is my line of education
+INFO:root:this is my line of education
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 0279fabb-5015-4981-b13d-7ad989c74ed5

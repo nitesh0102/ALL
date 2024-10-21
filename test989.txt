@@ -1,0 +1,1071 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-appearance-disabled vector-feature-appearance-pinned-clientpref-0 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>R Praggnanandhaa - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-appearance-disabled vector-feature-appearance-pinned-clientpref-0 vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":
+["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ac126ce8-efcc-4fac-9ec5-d08302b292e2","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"R_Praggnanandhaa","wgTitle":"R Praggnanandhaa","wgCurRevisionId":1226389347,"wgRevisionId":1226389347,"wgArticleId":51204074,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Short description is different from Wikidata","Use dmy dates from August 2023","Use Indian English from April 2018","All Wikipedia articles written in Indian English","Commons category link from Wikidata","2005 births","Living people","Tamil sportspeople","Indian chess players","Chess Grandmasters","World Youth Chess Champions","Chess Olympiad competitors",
+"Recipients of the Arjuna Award","Chess players at the 2022 Asian Games","Asian Games medalists in chess","Asian Games silver medalists for India","Medalists at the 2022 Asian Games","Sportspeople from Chennai","21st-century chess players","21st-century Indian people"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"R_Praggnanandhaa","wgRelevantArticleId":51204074,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,
+"wgWMEPageLength":30000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q26703041","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":
+"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.43.0-wmf.7">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fabiano_Caruana_-_R_Praggnanandhaa%2C_Candidates_Tournament_2024_02_%28cropped%29.jpg/1200px-Fabiano_Caruana_-_R_Praggnanandhaa%2C_Candidates_Tournament_2024_02_%28cropped%29.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1556">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fabiano_Caruana_-_R_Praggnanandhaa%2C_Candidates_Tournament_2024_02_%28cropped%29.jpg/800px-Fabiano_Caruana_-_R_Praggnanandhaa%2C_Candidates_Tournament_2024_02_%28cropped%29.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1037">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fabiano_Caruana_-_R_Praggnanandhaa%2C_Candidates_Tournament_2024_02_%28cropped%29.jpg/640px-Fabiano_Caruana_-_R_Praggnanandhaa%2C_Candidates_Tournament_2024_02_%28cropped%29.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="830">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="R Praggnanandhaa - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/R_Praggnanandhaa">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/R_Praggnanandhaa">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-R_Praggnanandhaa rootpage-R_Praggnanandhaa skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Appearance">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=R+Praggnanandhaa" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=R+Praggnanandhaa" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=R+Praggnanandhaa" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=R+Praggnanandhaa" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice" class="notheme"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Personal_life"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Personal_life">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Personal life</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Personal_life-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Career"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Career">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Career</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Career-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Career subsection</span>
+			</button>
+		
+		<ul id="toc-Career-sublist" class="vector-toc-list">
+			<li id="toc-2013–2017"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2013–2017">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1</span>
+					<span>2013–2017</span>
+				</div>
+			</a>
+			
+			<ul id="toc-2013–2017-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2018"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2018">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2</span>
+					<span>2018</span>
+				</div>
+			</a>
+			
+			<ul id="toc-2018-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2019"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2019">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.3</span>
+					<span>2019</span>
+				</div>
+			</a>
+			
+			<ul id="toc-2019-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2021"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2021">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.4</span>
+					<span>2021</span>
+				</div>
+			</a>
+			
+			<ul id="toc-2021-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2022"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2022">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.5</span>
+					<span>2022</span>
+				</div>
+			</a>
+			
+			<ul id="toc-2022-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2023"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2023">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.6</span>
+					<span>2023</span>
+				</div>
+			</a>
+			
+			<ul id="toc-2023-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-2024"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#2024">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.7</span>
+					<span>2024</span>
+				</div>
+			</a>
+			
+			<ul id="toc-2024-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Awards_and_recognition"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Awards_and_recognition">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Awards and recognition</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Awards_and_recognition-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Awards and recognition subsection</span>
+			</button>
+		
+		<ul id="toc-Awards_and_recognition-sublist" class="vector-toc-list">
+			<li id="toc-National"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#National">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.1</span>
+					<span>National</span>
+				</div>
+			</a>
+			
+			<ul id="toc-National-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Others"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Others">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.2</span>
+					<span>Others</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Others-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>See also</span>
+			</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>References</span>
+			</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>External links</span>
+			</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">R Praggnanandhaa</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 40 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-40" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">40 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D8%A7%D8%BA%D9%86%D8%A7%D9%86%D8%AF%D8%A7" title="براغناندا – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-as mw-list-item"><a href="https://as.wikipedia.org/wiki/%E0%A7%B0%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A7%81_%E0%A6%AA%E0%A7%8D%E0%A7%B0%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6" title="ৰমেশবাবু প্ৰজ্ঞানন্দ – Assamese" lang="as" hreflang="as" class="interlanguage-link-target"><span>অসমীয়া</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Rame%C5%9Fbabu_Praqnanandha" title="Rameşbabu Praqnanandha – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B0%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%AC%E0%A6%BE%E0%A6%AC%E0%A7%81_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8%E0%A6%A8%E0%A7%8D%E0%A6%A6" title="রমেশবাবু প্রজ্ঞানন্দ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D1%8D%D1%88%D0%B1%D0%B0%D0%B1%D1%83_%D0%9F%D1%80%D0%B0%D0%B3%D0%BD%D0%B0%D0%BD%D0%B0%D0%BD%D0%B4%D0%B3%D0%B0" title="Рамэшбабу Прагнанандга – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bh mw-list-item"><a href="https://bh.wikipedia.org/wiki/%E0%A4%86%E0%A4%B0._%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8%E0%A4%A8%E0%A4%82%E0%A4%A6" title="आर. प्रज्ञाननंद – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target"><span>भोजपुरी</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Rameshbabu_Praggnanandhaa" title="Rameshbabu Praggnanandhaa – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Rameshbabu_Praggnanandhaa" title="Rameshbabu Praggnanandhaa – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Rameshbabu_Praggnanandhaa" title="Rameshbabu Praggnanandhaa – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/R._Praggnanandhaa" title="R. Praggnanandhaa – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Rameshbabu_Praggnanandhaa" title="Rameshbabu Praggnanandhaa – Estonian" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Rameshbabu_Praggnanandhaa" title="Rameshbabu Praggnanandhaa – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Rameshbabu_Praggnanandhaa" title="Rameshbabu Praggnanandhaa – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Rameshbabu_Praggnanandhaa" title="Rameshbabu Praggnanandhaa – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%8C%D5%A1%D5%B4%D5%A5%D5%B7%D5%A2%D5%A1%D5%A2%D5%B8%D6%82_%D5%8A%D6%80%D5%A1%D5%A3%D5%B6%D5%A1%D5%B6%D5%A1%D5%B6%D5%A4%D5%B0%D5%A1" title="Ռամեշբաբու Պրագնանանդհա – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B0%E0%A4%AE%E0%A5%87%E0%A4%B6%E0%A4%AC%E0%A4%BE%E0%A4%AC%E0%A5%82_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8%E0%A4%A8%E0%A4%82%E0%A4%A6" title="रमेशबाबू प्रज्ञाननंद – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Rameshbabu_Praggnanandhaa" title="Rameshbabu Praggnanandhaa – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%A8%D7%90%D7%92%D7%A0%D7%90%D7%A0%D7%A0%D7%93%D7%94_%D7%A8%D7%90%D7%9E%D7%A9%D7%91%D7%90%D7%91%D7%95" title="פראגנאננדה ראמשבאבו – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Rame%C5%A1b%C4%81bu_Pragnanandh%C4%81" title="Ramešbābu Pragnanandhā – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B4%9C%E0%B5%8D%E0%B4%9E%E0%B4%BE%E0%B4%A8%E0%B4%A8%E0%B5%8D%E0%B4%A6_%E0%B4%B0%E0%B4%AE%E0%B5%87%E0%B4%B7%E0%B5%8D%E0%B4%AC%E0%B4%BE%E0%B4%AC%E0%B5%81" title="പ്രജ്ഞാനന്ദ രമേഷ്ബാബു – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%97%E0%A4%A3%E0%A4%BE%E0%A4%A8%E0%A4%82%E0%A4%A6%E0%A4%BE_%E0%A4%B0%E0%A4%AE%E0%A5%87%E0%A4%B6%E0%A4%AC%E0%A4%BE%E0%A4%AC%E0%A5%82" title="प्रगणानंदा रमेशबाबू – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%BE%D8%B1%D8%A7%D8%AC%D9%86%D8%A7%D9%86%D8%A7%D9%86%D8%AF%D9%87%D8%A7_%D8%A2%D8%B1" title="پراجناناندها آر – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/R_Praggnanandhaa" title="R Praggnanandhaa – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Rameshbabu_Praggnanandhaa" title="Rameshbabu Praggnanandhaa – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Praggnanandhaa" title="Praggnanandhaa – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-or mw-list-item"><a href="https://or.wikipedia.org/wiki/%E0%AC%B0%E0%AC%AE%E0%AD%87%E0%AC%B6%E0%AC%AC%E0%AC%BE%E0%AC%AC%E0%AD%81_%E0%AC%AA%E0%AD%8D%E0%AC%B0%E0%AC%9C%E0%AD%8D%E0%AC%9E%E0%AC%BE%E0%AC%A8%E0%AC%A8%E0%AC%A8%E0%AD%8D%E0%AC%A6" title="ରମେଶବାବୁ ପ୍ରଜ୍ଞାନନନ୍ଦ – Odia" lang="or" hreflang="or" class="interlanguage-link-target"><span>ଓଡ଼ିଆ</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Rameshbabu_Praggnanandhaa" title="Rameshbabu Praggnanandhaa – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Rameshbabu_Praggnanandhaa" title="Rameshbabu Praggnanandhaa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/R_Praggnanandhaa" title="R Praggnanandhaa – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/R_Praggnanandhaa" title="R Praggnanandhaa – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%B5%D1%88%D0%B1%D0%B0%D0%B1%D1%83_%D0%9F%D1%80%D0%B0%D0%B3%D0%BD%D0%B0%D0%BD%D0%B0%D0%BD%D0%B4%D1%85%D0%B0" title="Рамешбабу Прагнанандха – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Rameshbabu_Praggnanandhaa" title="Rameshbabu Praggnanandhaa – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Rameshbabu_Praggnanandhaa" title="Rameshbabu Praggnanandhaa – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B0._%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%95%E0%AF%8D%E0%AE%9E%E0%AE%BE%E0%AE%A9%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BE" title="ர. பிரக்ஞானந்தா – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%B0%E0%B0%AE%E0%B1%87%E0%B0%B6%E0%B1%8D%E2%80%8C%E0%B0%AC%E0%B0%BE%E0%B0%AC%E0%B1%81_%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%9C%E0%B1%8D%E0%B0%9E%E0%B0%BE%E0%B0%A8%E0%B0%82%E0%B0%A6" title="రమేశ్‌బాబు ప్రజ్ఞానంద – Telugu" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/R_Praggnanandhaa" title="R Praggnanandhaa – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%B5%D1%88%D0%B1%D0%B0%D0%B1%D1%83_%D0%9F%D1%80%D0%B0%D0%B3%D0%BD%D0%B0%D0%BD%D0%B0%D0%BD%D0%B4%D1%85%D0%B0" title="Рамешбабу Прагнанандха – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%B1%D9%85%DB%8C%D8%B4_%D8%A8%D8%A7%D8%A8%D9%88_%D9%BE%D8%B1%DA%AF%D9%86%D8%A7%D9%86%D8%AF%DA%BE%D8%A7" title="رمیش بابو پرگناندھا – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Rameshbabu_Praggnanandhaa" title="Rameshbabu Praggnanandhaa – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%8B%89%E6%A2%85%E4%BB%80%E5%B7%B4%E5%B8%83%C2%B7%E6%99%AE%E6%8B%89%E6%A0%BC%E7%BA%B3%E5%8D%97%E8%BE%BE" title="拉梅什巴布·普拉格纳南达 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q26703041#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/R_Praggnanandhaa" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:R_Praggnanandhaa" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/R_Praggnanandhaa"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/R_Praggnanandhaa"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/R_Praggnanandhaa" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/R_Praggnanandhaa" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=R_Praggnanandhaa&amp;oldid=1226389347" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=R_Praggnanandhaa&amp;id=1226389347&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FR_Praggnanandhaa"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FR_Praggnanandhaa"><span>Download QR code</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q26703041" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=R_Praggnanandhaa&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=R_Praggnanandhaa&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Praggnanandhaa_Rameshbabu" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Appearance">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Indian chess grandmaster (born 2005)</div>
+<p class="mw-empty-elt">
+
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">In this <a href="/wiki/Indian_name" title="Indian name">Indian name</a>, the name <i>Rameshbabu</i> is a <a href="/wiki/Patronymic" title="Patronymic">patronymic</a>, and the person should be referred to by the <a href="/wiki/Given_name" title="Given name">given name</a>, <i>Praggnanandhaa</i>.</div>
+<style data-mw-deduplicate="TemplateStyles:r1218072481">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data div{background:#1f1f23!important;color:#f8f9fa}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data div{background:#1f1f23!important;color:#f8f9fa}}</style><table class="infobox vcard"><tbody><tr><th colspan="2" class="infobox-above fn">R Praggnanandhaa</th></tr><tr><td colspan="2" class="infobox-image"><span class="mw-default-size" typeof="mw:File/Frameless"><a href="/wiki/File:Fabiano_Caruana_-_R_Praggnanandhaa,_Candidates_Tournament_2024_02_(cropped).jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fabiano_Caruana_-_R_Praggnanandhaa%2C_Candidates_Tournament_2024_02_%28cropped%29.jpg/220px-Fabiano_Caruana_-_R_Praggnanandhaa%2C_Candidates_Tournament_2024_02_%28cropped%29.jpg" decoding="async" width="220" height="285" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fabiano_Caruana_-_R_Praggnanandhaa%2C_Candidates_Tournament_2024_02_%28cropped%29.jpg/330px-Fabiano_Caruana_-_R_Praggnanandhaa%2C_Candidates_Tournament_2024_02_%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fabiano_Caruana_-_R_Praggnanandhaa%2C_Candidates_Tournament_2024_02_%28cropped%29.jpg/440px-Fabiano_Caruana_-_R_Praggnanandhaa%2C_Candidates_Tournament_2024_02_%28cropped%29.jpg 2x" data-file-width="1843" data-file-height="2390" /></a></span><div class="infobox-caption">Praggnanandhaa at <a href="/wiki/Candidates_Tournament_2024" title="Candidates Tournament 2024">Candidates Tournament 2024</a></div></td></tr><tr><th scope="row" class="infobox-label">Full&#160;name</th><td class="infobox-data">Rameshbabu Praggnanandhaa</td></tr><tr><th scope="row" class="infobox-label">Country</th><td class="infobox-data adr">India</td></tr><tr><th scope="row" class="infobox-label">Born</th><td class="infobox-data"><span style="display:none"> (<span class="bday">2005-08-10</span>) </span>10 August 2005<span class="noprint ForceAgeToShow"> (age&#160;18)</span><br /><a href="/wiki/Chennai" title="Chennai">Chennai</a>, Tamil Nadu, India</td></tr><tr><th scope="row" class="infobox-label">Title</th><td class="infobox-data note"><a href="/wiki/Grandmaster_(chess)" title="Grandmaster (chess)">Grandmaster</a> (2018)</td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/FIDE" title="FIDE">FIDE</a>&#160;<a href="/wiki/Elo_rating_system" title="Elo rating system">rating</a></th><td class="infobox-data"><a rel="nofollow" class="external text" href="https://ratings.fide.com/profile/25059530">2747</a> (May 2024)</td></tr><tr><th scope="row" class="infobox-label"><a href="/wiki/List_of_chess_players_by_peak_FIDE_rating" title="List of chess players by peak FIDE rating">Peak&#160;rating</a></th><td class="infobox-data">2747 (February 2024)</td></tr><tr><th scope="row" class="infobox-label">Ranking</th><td class="infobox-data"><a rel="nofollow" class="external text" href="http://ratings.fide.com/toplist.phtml">No. 13</a> (June 2024)</td></tr><tr><th scope="row" class="infobox-label">Peak&#160;ranking</th><td class="infobox-data">No. 13 (December 2023)</td></tr><tr><th colspan="2" class="infobox-header"><div class="mw-collapsible" style="text-align:center; font-size:95%">
+    <div class="skin-nightmode-reset-color" style="line-height:1.6em; background-color:#ccf; font-size:105%; background-color:transparent;"><div style="margin:0 4em;">Medal record</div></div>
+    <div class="mw-collapsible-content" style="font-size:105%"><style data-mw-deduplicate="TemplateStyles:r1151960987">body.skin-minerva .mw-parser-output .infobox table{display:table}body.skin-minerva .mw-parser-output .infobox caption{display:table-caption}</style>
+<table class="skin-nightmode-reset-color" style="width:100%; background-color:#f9f9f9; color:#000000; font-weight:normal">
+<tbody><tr>
+<td colspan="2" style="padding:0">
+</td></tr>
+<tr>
+<th colspan="3" style="text-align:center;vertical-align:middle;background-color:#eeeeee;" class="adr">Representing <span class="country-name"><span class="flagicon"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" decoding="async" width="23" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span>&#160;</span><a href="/wiki/India" title="India">India</a></span>
+</th></tr>
+<tr>
+<th colspan="3" style="text-align:center;vertical-align:middle;background-color:#cccccc;"><a href="/wiki/Asian_Games" title="Asian Games">Asian Games</a>
+</th></tr>
+<tr>
+<td style="text-align:center;vertical-align:middle;"><span typeof="mw:File"><span title="Silver medal – second place"><img alt="Silver medal – second place" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Silver_medal_icon_%28S_initial%29.svg/16px-Silver_medal_icon_%28S_initial%29.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Silver_medal_icon_%28S_initial%29.svg/24px-Silver_medal_icon_%28S_initial%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Silver_medal_icon_%28S_initial%29.svg/32px-Silver_medal_icon_%28S_initial%29.svg.png 2x" data-file-width="16" data-file-height="16" /></span></span></td>
+<td style="text-align:center;vertical-align:middle;"><span class="nowrap"><a href="/wiki/2022_Asian_Games" title="2022 Asian Games">2022 Hangzhou</a></span></td>
+<td style="text-align:center;vertical-align:middle;"><a href="/wiki/Chess_at_the_2022_Asian_Games_%E2%80%93_Men%27s_team" class="mw-redirect" title="Chess at the 2022 Asian Games – Men&#39;s team">Men's team</a>
+</td></tr></tbody></table>
+</div></div></th></tr></tbody></table>
+<p><b>Rameshbabu Praggnanandhaa</b> (born 10 August 2005) is an Indian <a href="/wiki/Grandmaster_(chess)" title="Grandmaster (chess)">chess grandmaster</a>. Praggnanandhaa and his sister <a href="/wiki/R_Vaishali" title="R Vaishali">Vaishali</a> are the first brother-sister duo to both earn the GM title.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> They are also the first brother-sister duo to qualify for the <a href="/wiki/Candidates_Tournament" title="Candidates Tournament">Candidates</a>.<sup id="cite_ref-:4_2-0" class="reference"><a href="#cite_note-:4-2">&#91;2&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit&amp;section=1" title="Edit section: Personal life"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Rameshbabu_Praggnanandhaa_in_2023_(52638512205).jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rameshbabu_Praggnanandhaa_in_2023_%2852638512205%29.jpg/220px-Rameshbabu_Praggnanandhaa_in_2023_%2852638512205%29.jpg" decoding="async" width="220" height="147" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rameshbabu_Praggnanandhaa_in_2023_%2852638512205%29.jpg/330px-Rameshbabu_Praggnanandhaa_in_2023_%2852638512205%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Rameshbabu_Praggnanandhaa_in_2023_%2852638512205%29.jpg/440px-Rameshbabu_Praggnanandhaa_in_2023_%2852638512205%29.jpg 2x" data-file-width="2100" data-file-height="1400" /></a><figcaption>Praggnanandhaa <i>(right)</i> pictured with his mother, Nagalakshmi <i>(left)</i>.</figcaption></figure>
+<p>Praggnanandhaa was born in <a href="/wiki/Chennai" title="Chennai">Chennai</a>, Tamil Nadu, on 10 August 2005.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> His father, Rameshbabu, works as a branch manager at <a href="/wiki/TNSC_Bank" title="TNSC Bank">TNSC Bank</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> and his mother, Nagalakshmi, is a <a href="/wiki/Homemaker" class="mw-redirect" title="Homemaker">homemaker</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> His elder sister, <a href="/wiki/R_Vaishali" title="R Vaishali">R Vaishali</a>, is also a chess grandmaster.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit&amp;section=2" title="Edit section: Career"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="2013.E2.80.932017"></span><span class="mw-headline" id="2013–2017">2013–2017</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit&amp;section=3" title="Edit section: 2013–2017"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Praggnanandhaa won the <a href="/wiki/World_Youth_Chess_Championship" title="World Youth Chess Championship">World Youth Chess Championship</a> Under-8 title in 2013, earning him the title of <a href="/wiki/FIDE_Master" class="mw-redirect" title="FIDE Master">FIDE Master</a>. He won the under-10 title in 2015.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>In 2016, Praggnanandhaa became the youngest <a href="/wiki/International_master" class="mw-redirect" title="International master">international master</a> in history, at the age of 10 years, 10 months, and 19 days.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> He achieved his first grandmaster <a href="/wiki/Norm_(chess)" title="Norm (chess)">norm</a> at the <a href="/wiki/World_Junior_Chess_Championship" title="World Junior Chess Championship">World Junior Chess Championship</a> in November 2017, finishing fourth with 8 points.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> 
+</p>
+<h3><span class="mw-headline" id="2018">2018</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit&amp;section=4" title="Edit section: 2018"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>He gained his second norm at the Heraklion Fischer Memorial GM norm tournament in Greece on 17 April 2018.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> On 23 June 2018 he achieved his third and final norm at the Gredine Open in <a href="/wiki/Urtij%C3%ABi" title="Urtijëi">Urtijëi</a>, Italy, by defeating <a href="/wiki/Luca_Moroni" title="Luca Moroni">Luca Moroni</a> in the eighth round to become, at the age of 12 years, 10 months and 13 days, the then second-youngest person ever to achieve the rank of grandmaster (<a href="/wiki/Sergey_Karjakin" title="Sergey Karjakin">Sergey Karjakin</a> attained the title at 12 years and 7 months).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> He is the sixth-youngest person ever to achieve the title of <a href="/wiki/Grandmaster_(chess)" title="Grandmaster (chess)">Grandmaster</a> (GM), behind <a href="/wiki/Abhimanyu_Mishra" title="Abhimanyu Mishra">Abhimanyu Mishra</a>,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> <a href="/wiki/Sergey_Karjakin" title="Sergey Karjakin">Sergey Karjakin</a>, <a href="/wiki/Gukesh_D" title="Gukesh D">Gukesh D</a>, <a href="/wiki/Ya%C4%9F%C4%B1z_Kaan_Erdo%C4%9Fmu%C5%9F" title="Yağız Kaan Erdoğmuş">Yağız Kaan Erdoğmuş</a>, and <a href="/wiki/Javokhir_Sindarov" title="Javokhir Sindarov">Javokhir Sindarov</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>In 2018, Praggnanandhaa was invited to the Magistral de <a href="/wiki/Le%C3%B3n,_Spain" title="León, Spain">León</a> Masters in Spain for a four-game rapid match against <a href="/wiki/Wesley_So" title="Wesley So">Wesley So</a>. He defeated So in game one, and after three games the score was tied at 1½–1½. In the last game, So defeated Praggnanandhaa, winning the match 2½–1½.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p>In January 2018, Praggnanandhaa tied for third place with GM <a href="/wiki/Alder_Escobar_Forero" title="Alder Escobar Forero">Alder Escobar Forero</a> and IM Denys Shmelov in the Charlotte Chess Center's Winter 2018 GM Norm Invitational held in <a href="/wiki/Charlotte,_North_Carolina" title="Charlotte, North Carolina">Charlotte</a>, North Carolina, with a score of 5.0/9. <sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="2019">2019</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit&amp;section=5" title="Edit section: 2019"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In July 2019, Praggnanandhaa won the <a href="/wiki/Xtracon_Chess_Open" title="Xtracon Chess Open">Xtracon Chess Open</a> in <a href="/wiki/Denmark" title="Denmark">Denmark</a>, scoring 8½/10 points (+7–0=3).<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> On 12 October 2019, he won the World Youth Championships in the Under-18 section with a score of 9/11.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> In December 2019, he became the second-youngest person to achieve a rating of 2600.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> He did this at the age of 14 years, 3 months and 24 days.
+</p>
+<h3><span class="mw-headline" id="2021">2021</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit&amp;section=6" title="Edit section: 2021"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In April 2021, Praggnanandhaa won the Polgar Challenge, the first leg (out of four) of the Julius Baer Challengers Chess Tour, a rapid online event organized by Julius Baer Group and Chess24.com for young talents.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>  He scored 15.5/19, 1.5 points ahead of the next best placed competitors.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>  This win helped him qualify for the next <a href="/wiki/Champions_Chess_Tour_2021" title="Champions Chess Tour 2021">Meltwater Champions Chess Tour</a> on 24 April 2021, where he finished in 10th place with a score of 7/15 (+4-5=6), including wins against <a href="/wiki/Teimour_Radjabov" title="Teimour Radjabov">Teimour Radjabov</a>, <a href="/wiki/Jan-Krzysztof_Duda" title="Jan-Krzysztof Duda">Jan-Krzysztof Duda</a>, <a href="/wiki/Sergey_Karjakin" title="Sergey Karjakin">Sergey Karjakin</a>, and <a href="/wiki/Johan-Sebastian_Christiansen" title="Johan-Sebastian Christiansen">Johan-Sebastian Christiansen</a> as well as a draw against World Champion <a href="/wiki/Magnus_Carlsen" title="Magnus Carlsen">Magnus Carlsen</a>.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p><p>Praggnanandhaa entered the <a href="/wiki/Chess_World_Cup_2021" title="Chess World Cup 2021">Chess World Cup 2021</a> as the 90th seed. He defeated GM <a href="/wiki/Gabriel_Sargissian" title="Gabriel Sargissian">Gabriel Sargissian</a> 2–0 in round 2, and advanced to round 4 after defeating GM <a href="/wiki/Micha%C5%82_Krasenkow" title="Michał Krasenkow">Michał Krasenkow</a> in the rapid tiebreaks in round 3. He was eliminated in round four by <a href="/wiki/Maxime_Vachier-Lagrave" title="Maxime Vachier-Lagrave">Maxime Vachier-Lagrave</a>.
+</p>
+<h3><span class="mw-headline" id="2022">2022</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit&amp;section=7" title="Edit section: 2022"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Praggnanandhaa played in the Masters section of the <a href="/wiki/Tata_Steel_Chess_Tournament_2022" title="Tata Steel Chess Tournament 2022">Tata Steel Chess Tournament 2022</a>, winning games against <a href="/wiki/Andrey_Esipenko" title="Andrey Esipenko">Andrey Esipenko</a>, <a href="/wiki/Vidit_Gujrathi" title="Vidit Gujrathi">Vidit Gujrathi</a> and <a href="/wiki/Nils_Grandelius" title="Nils Grandelius">Nils Grandelius</a>, finishing in 12th place with a final score of 5½.
+</p><p>He was part of India-2 team in <a href="/wiki/44th_Chess_Olympiad" title="44th Chess Olympiad">44th Chess Olympiad</a> which went on to finish third and won the bronze medal 
+</p><p>On 20 February 2022, he became the third Indian player (after <a href="/wiki/Viswanathan_Anand" title="Viswanathan Anand">Anand</a> and <a href="/wiki/Pentala_Harikrishna" title="Pentala Harikrishna">Harikrishna</a>) to win a game against World Champion <a href="/wiki/Magnus_Carlsen" title="Magnus Carlsen">Magnus Carlsen</a> in any time format, in the online <i>Airthings Masters</i> rapid tournament of the <a href="/wiki/Champions_Chess_Tour_2022" title="Champions Chess Tour 2022">Champions Chess Tour 2022</a>, with a 15+10 time control.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> The record has since broken by <a href="/wiki/Gukesh_D" title="Gukesh D">Gukesh D</a>, on 16 October 2022.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p><p>At the Chessable Masters online rapid chess tournament in May 2022, he defeated Carlsen once again, his second win over him in three months, and advanced to the finals.<sup id="cite_ref-:0_27-0" class="reference"><a href="#cite_note-:0-27">&#91;27&#93;</a></sup><sup id="cite_ref-:1_28-0" class="reference"><a href="#cite_note-:1-28">&#91;28&#93;</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p><p>He also defeated Carlsen three times in the FTX Crypto Cup 2022, finishing second behind Carlsen in the final standings.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="2023">2023</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit&amp;section=8" title="Edit section: 2023"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In January 2023, Praggnanandhaa played in the <a href="/wiki/Tata_Steel_Chess_Tournament_2023" title="Tata Steel Chess Tournament 2023">Tata Steel Chess Masters 2023</a>. He defeated a 2800-rated grandmaster, <a href="/wiki/Ding_Liren" title="Ding Liren">Ding Liren</a>, his first time playing, so in a classical game.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> He ended the tournament in 9th place with a score of 6/13.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</p><p>In the <a href="/wiki/Chess_World_Cup_2023" title="Chess World Cup 2023">Chess World Cup 2023</a>, 18-year-old Praggnanandhaa became the world's youngest player to reach the <a href="/wiki/Chess_World_Cup" title="Chess World Cup">Chess World Cup</a> final, defeating<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup> <a href="/wiki/Fabiano_Caruana" title="Fabiano Caruana">Fabiano Caruana</a> in tie-breaks in the semi-final. He has also become the second Indian after <a href="/wiki/Viswanathan_Anand" title="Viswanathan Anand">Viswanathan Anand</a> to reach the final in Chess World Cup history. His play<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup> against former classical World Chess Champion <a href="/wiki/Magnus_Carlsen" title="Magnus Carlsen">Magnus Carlsen</a> in the final resulted in a defeat in the rapid tie-breaks, securing him second place and qualification for the <a href="/wiki/Candidates_Tournament_2024" title="Candidates Tournament 2024">2024 Candidates Tournament</a>. He was <a href="/wiki/Second_(chess)" class="mw-redirect" title="Second (chess)">seconded</a> during that tournament by Russian grandmaster <a href="/wiki/Peter_Svidler" title="Peter Svidler">Peter Svidler</a>.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="2024">2024</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit&amp;section=9" title="Edit section: 2024"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Praggnanandhaa placed 5th out of 8 participants in the <a href="/wiki/2024_Candidates_Tournament" class="mw-redirect" title="2024 Candidates Tournament">2024 Candidates Tournament</a>, getting 7 points out of 14. Additionally, he defeated the World number 1, Magnus Carlsen, for the first time in a classical 'over the board' match in the 3rd round of the Norway Chess 2024 tournament.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Awards_and_recognition">Awards and recognition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit&amp;section=10" title="Edit section: Awards and recognition"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="National">National</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit&amp;section=11" title="Edit section: National"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Arjuna_Award" title="Arjuna Award">Arjuna Award</a>: 2022</li></ul>
+<h3><span class="mw-headline" id="Others">Others</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit&amp;section=12" title="Edit section: Others"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/CNN-News18_Indian_of_the_Year" class="mw-redirect" title="CNN-News18 Indian of the Year">CNN-News18 Indian of the Year (Sports)</a>: 2023<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit&amp;section=13" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1214689105">.mw-parser-output .portalbox{padding:0;margin:0.5em 0;display:table;box-sizing:border-box;max-width:175px;list-style:none}.mw-parser-output .portalborder{border:solid #aaa 1px;padding:0.1em;background:#f9f9f9}.mw-parser-output .portalbox-entry{display:table-row;font-size:85%;line-height:110%;height:1.9em;font-style:italic;font-weight:bold}.mw-parser-output .portalbox-image{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox-link{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}@media(min-width:720px){.mw-parser-output .portalleft{clear:left;float:left;margin:0.5em 1em 0.5em 0}.mw-parser-output .portalright{clear:right;float:right;margin:0.5em 0 0.5em 1em}}html.skin-theme-clientpref-night .mw-parser-output .portalbox{background:transparent}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .pane{background:transparent}}</style><ul role="navigation" aria-label="Portals" class="noprint portalbox portalborder portalright">
+<li class="portalbox-entry"><span class="portalbox-image"><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Chess.svg" class="mw-file-description"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Chess.svg/28px-Chess.svg.png" decoding="async" width="28" height="28" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Chess.svg/42px-Chess.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Chess.svg/56px-Chess.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span></span><span class="portalbox-link"><a href="/wiki/Portal:Chess" title="Portal:Chess">Chess portal</a></span></li></ul>
+<ul><li><a href="/wiki/Chess_in_India" title="Chess in India">Chess in India</a></li>
+<li><a href="/wiki/List_of_Indian_chess_players" title="List of Indian chess players">List of Indian chess players</a></li>
+<li><a href="/wiki/List_of_chess_grandmasters" title="List of chess grandmasters">List of chess grandmasters</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit&amp;section=14" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1217336898">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1215172403">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a{background-size:contain}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a{background-size:contain}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a{background-size:contain}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#2C882D;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911F}html.skin-theme-clientpref-night .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-night .mw-parser-output .cs1-hidden-error{color:#f8a397}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-os .mw-parser-output .cs1-hidden-error{color:#f8a397}html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911F}}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.indiatoday.in/sports/other-sports/story/r-vaishali-becomes-grandmaster-joins-r-praggnanandhaa-to-become-worlds-first-brother-sister-gm-duo-2470352-2023-12-02">"R Vaishali becomes grandmaster, joins R Praggnanandhaa to become world's first brother-sister GM duo"</a>. <i>India Today</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 December</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=India+Today&amp;rft.atitle=R+Vaishali+becomes+grandmaster%2C+joins+R+Praggnanandhaa+to+become+world%27s+first+brother-sister+GM+duo&amp;rft_id=https%3A%2F%2Fwww.indiatoday.in%2Fsports%2Fother-sports%2Fstory%2Fr-vaishali-becomes-grandmaster-joins-r-praggnanandhaa-to-become-worlds-first-brother-sister-gm-duo-2470352-2023-12-02&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:4-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-:4_2-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://indianexpress.com/article/sports/chess/vaishali-and-praggnanandhaa-make-history-as-the-first-ever-brother-sister-duo-to-become-grandmasters-9051083/">"Vaishali and Praggnanandhaa make history as the first-ever brother-sister duo to become Grandmasters"</a>. <i>The Indian Express</i>. 2 December 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">4 December</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Indian+Express&amp;rft.atitle=Vaishali+and+Praggnanandhaa+make+history+as+the+first-ever+brother-sister+duo+to+become+Grandmasters&amp;rft.date=2023-12-02&amp;rft_id=https%3A%2F%2Findianexpress.com%2Farticle%2Fsports%2Fchess%2Fvaishali-and-praggnanandhaa-make-history-as-the-first-ever-brother-sister-duo-to-become-grandmasters-9051083%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://economictimes.indiatimes.com/magazines/panache/who-is-praggnanandhaa-the-16-year-old-who-beat-world-champion-at-airthings-masters-chess/articleshow/89738763.cms">"Who is Praggnanandhaa, the 16-year-old who beat world champion at Airthings Masters chess?"</a>. <i><a href="/wiki/The_Economic_Times" title="The Economic Times">The Economic Times</a></i>. 22 February 2022. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220620071917/https://economictimes.indiatimes.com/magazines/panache/who-is-praggnanandhaa-the-16-year-old-who-beat-world-champion-at-airthings-masters-chess/articleshow/89738763.cms">Archived</a> from the original on 20 June 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">20 June</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Economic+Times&amp;rft.atitle=Who+is+Praggnanandhaa%2C+the+16-year-old+who+beat+world+champion+at+Airthings+Masters+chess%3F&amp;rft.date=2022-02-22&amp;rft_id=https%3A%2F%2Feconomictimes.indiatimes.com%2Fmagazines%2Fpanache%2Fwho-is-praggnanandhaa-the-16-year-old-who-beat-world-champion-at-airthings-masters-chess%2Farticleshow%2F89738763.cms&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.deccanherald.com/sports/other-sports/indian-chess-prodigy-was-shaped-by-sisters-hobby-1084076.html">"Indian chess prodigy was shaped by sister's 'hobby'<span class="cs1-kern-right"></span>"</a>. <i>Deccan Herald</i>. 22 February 2022. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220607092352/https://www.deccanherald.com/sports/other-sports/indian-chess-prodigy-was-shaped-by-sisters-hobby-1084076.html">Archived</a> from the original on 7 June 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">7 June</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Deccan+Herald&amp;rft.atitle=Indian+chess+prodigy+was+shaped+by+sister%27s+%27hobby%27&amp;rft.date=2022-02-22&amp;rft_id=https%3A%2F%2Fwww.deccanherald.com%2Fsports%2Fother-sports%2Findian-chess-prodigy-was-shaped-by-sisters-hobby-1084076.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.thehindu.com/sport/other-sports/former-world-chess-champion-garry-kasparov-hails-indian-prodigy-praggnanandhaa-for-reaching-fide-wc-final/article67222011.ece">"FIDE World Cup | Chess great Kasparov congratulates Praggnanandhaa; lauds mother for 'special kind of support'<span class="cs1-kern-right"></span>"</a>. <i>The Hindu</i>. 22 August 2023. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0971-751X">0971-751X</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230822122219/https://www.thehindu.com/sport/other-sports/former-world-chess-champion-garry-kasparov-hails-indian-prodigy-praggnanandhaa-for-reaching-fide-wc-final/article67222011.ece">Archived</a> from the original on 22 August 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">22 August</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Hindu&amp;rft.atitle=FIDE+World+Cup+%7C+Chess+great+Kasparov+congratulates+Praggnanandhaa%3B+lauds+mother+for+%27special+kind+of+support%27&amp;rft.date=2023-08-22&amp;rft.issn=0971-751X&amp;rft_id=https%3A%2F%2Fwww.thehindu.com%2Fsport%2Fother-sports%2Fformer-world-chess-champion-garry-kasparov-hails-indian-prodigy-praggnanandhaa-for-reaching-fide-wc-final%2Farticle67222011.ece&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.thehindu.com/sport/other-sports/vaishali-becomes-a-grandmaster/article67597369.ece">"R. Vaishali becomes India's third female chess Grandmaster"</a>. <i>The Hindu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 December</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Hindu&amp;rft.atitle=R.+Vaishali+becomes+India%E2%80%99s+third+female+chess+Grandmaster&amp;rft_id=https%3A%2F%2Fwww.thehindu.com%2Fsport%2Fother-sports%2Fvaishali-becomes-a-grandmaster%2Farticle67597369.ece&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://indianexpress.com/article/sports/sport-others/im-praggnanandhaa-worlds-youngest-eer-chess-international-master-2828111/">"I'm Praggnanandhaa, world's youngest ever chess International Master"</a>. <i><a href="/wiki/The_Indian_Express" title="The Indian Express">The Indian Express</a></i>. 1 June 2016. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220601192819/https://indianexpress.com/article/sports/sport-others/im-praggnanandhaa-worlds-youngest-ever-chess-international-master-2828111/">Archived</a> from the original on 1 June 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">30 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Indian+Express&amp;rft.atitle=I%27m+Praggnanandhaa%2C+world%27s+youngest+ever+chess+International+Master&amp;rft.date=2016-06-01&amp;rft_id=http%3A%2F%2Findianexpress.com%2Farticle%2Fsports%2Fsport-others%2Fim-praggnanandhaa-worlds-youngest-eer-chess-international-master-2828111%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFPriyadarshan_Banjan2016" class="citation web cs1">Priyadarshan Banjan (29 May 2016). <a rel="nofollow" class="external text" href="https://en.chessbase.com/post/praggnanandhaa-youngest-chess-im-in-history">"Praggnanandhaa – youngest chess IM in history!"</a>. <i><a href="/wiki/ChessBase" title="ChessBase">ChessBase</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190320215148/https://en.chessbase.com/post/praggnanandhaa-youngest-chess-im-in-history">Archived</a> from the original on 20 March 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">8 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ChessBase&amp;rft.atitle=Praggnanandhaa+%E2%80%93+youngest+chess+IM+in+history%21&amp;rft.date=2016-05-29&amp;rft.au=Priyadarshan+Banjan&amp;rft_id=https%3A%2F%2Fen.chessbase.com%2Fpost%2Fpraggnanandhaa-youngest-chess-im-in-history&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFBarden2016" class="citation news cs1"><a href="/wiki/Leonard_Barden" title="Leonard Barden">Barden, Leonard</a> (21 October 2016). <a rel="nofollow" class="external text" href="https://www.theguardian.com/sport/2016/oct/21/rameshbabu-praggnanandhaa-world-grandmaster-record">"Rameshbabu Praggnanandhaa chases world grandmaster age record at 11"</a>. <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170823164248/https://www.theguardian.com/sport/2016/oct/21/rameshbabu-praggnanandhaa-world-grandmaster-record">Archived</a> from the original on 23 August 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">26 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Rameshbabu+Praggnanandhaa+chases+world+grandmaster+age+record+at+11&amp;rft.date=2016-10-21&amp;rft.aulast=Barden&amp;rft.aufirst=Leonard&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fsport%2F2016%2Foct%2F21%2Frameshbabu-praggnanandhaa-world-grandmaster-record&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://aicf.in/2017-world-juniors-praggnanandhaa-gains-maiden-gm-norm/">"2017 World Juniors: Praggnanandhaa gains maiden GM norm"</a>. <i>All India Chess Federation</i>. 24 November 2017. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220601194819/https://aicf.in/2017-world-juniors-praggnanandhaa-gains-maiden-gm-norm/">Archived</a> from the original on 1 June 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=All+India+Chess+Federation&amp;rft.atitle=2017+World+Juniors%3A+Praggnanandhaa+gains+maiden+GM+norm&amp;rft.date=2017-11-24&amp;rft_id=http%3A%2F%2Faicf.in%2F2017-world-juniors-praggnanandhaa-gains-maiden-gm-norm%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-bags-his-second-gm-norm/articleshow/63805861.cms">"Praggnanandhaa bags his second GM norm"</a>. <i>The Times of India</i>. <a rel="nofollow" class="external text" href="https://archive.today/20220601193808/https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-bags-his-second-gm-norm/articleshow/63805861.cms">Archived</a> from the original on 1 June 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">18 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Times+of+India&amp;rft.atitle=Praggnanandhaa+bags+his+second+GM+norm&amp;rft_id=https%3A%2F%2Ftimesofindia.indiatimes.com%2Fsports%2Fchess%2Fpraggnanandhaa-bags-his-second-gm-norm%2Farticleshow%2F63805861.cms&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="http://www.espn.in/chess/story/_/id/23887946/india-praggnanandhaa-becomes-world-second-youngest-grandmaster-12-years-10-months-13-days?platform=amp">"Praggnanandhaa becomes India's youngest Grandmaster"</a>. <i>ESPN</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220406171856/https://www.espn.in/chess/story/_/id/23887946/india-praggnanandhaa-becomes-world-second-youngest-grandmaster-12-years-10-months-13-days?platform=amp">Archived</a> from the original on 6 April 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">24 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ESPN&amp;rft.atitle=Praggnanandhaa+becomes+India%27s+youngest+Grandmaster&amp;rft_id=http%3A%2F%2Fwww.espn.in%2Fchess%2Fstory%2F_%2Fid%2F23887946%2Findia-praggnanandhaa-becomes-world-second-youngest-grandmaster-12-years-10-months-13-days%3Fplatform%3Damp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://new.uschess.org/news/gm-abhimanyu-mishra-youngest-gm-history">"GM Abhimanyu Mishra is the Youngest GM in History!"</a>. <i>USCF Online</i>. 30 June 2021. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20221002130645/https://new.uschess.org/news/gm-abhimanyu-mishra-youngest-gm-history">Archived</a> from the original on 2 October 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">30 June</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=USCF+Online&amp;rft.atitle=GM+Abhimanyu+Mishra+is+the+Youngest+GM+in+History%21&amp;rft.date=2021-06-30&amp;rft_id=https%3A%2F%2Fnew.uschess.org%2Fnews%2Fgm-abhimanyu-mishra-youngest-gm-history&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://timesofindia.indiatimes.com/sports/chess/chennais-praggnanandhaa-becomes-2nd-youngest-gm/articleshow/64715771.cms">"Chennai's Praggnanandhaa becomes 2nd youngest GM"</a>. <i>The Times of India</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180718153350/https://timesofindia.indiatimes.com/sports/chess/chennais-praggnanandhaa-becomes-2nd-youngest-gm/articleshow/64715771.cms">Archived</a> from the original on 18 July 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">23 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Times+of+India&amp;rft.atitle=Chennai%27s+Praggnanandhaa+becomes+2nd+youngest+GM&amp;rft_id=https%3A%2F%2Ftimesofindia.indiatimes.com%2Fsports%2Fchess%2Fchennais-praggnanandhaa-becomes-2nd-youngest-gm%2Farticleshow%2F64715771.cms&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.chessbase.in/news/Praggnanandhaa_Wesley_So_Leon_2018">"Praggnanandhaa gives a major scare to Wesley So at the Leon Masters 2018"</a>. <i>ChessBase India</i>. 8 July 2018. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190630161606/https://www.chessbase.in/news/Praggnanandhaa_Wesley_So_Leon_2018">Archived</a> from the original on 30 June 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ChessBase+India&amp;rft.atitle=Praggnanandhaa+gives+a+major+scare+to+Wesley+So+at+the+Leon+Masters+2018&amp;rft.date=2018-07-08&amp;rft_id=https%3A%2F%2Fwww.chessbase.in%2Fnews%2FPraggnanandhaa_Wesley_So_Leon_2018&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://chessstream.com/Invitational/Winter-2018-GM-IM-Norm-Invitational/TournamentPairings.aspx">"CCCSA GM/IM Norm Invitational – May 2022 GM/IM Norm Invitational Chess Tournament"</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210212214555/http://chessstream.com/Invitational/Winter-2018-GM-IM-Norm-Invitational/TournamentPairings.aspx">Archived</a> from the original on 12 February 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">10 February</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CCCSA+GM%2FIM+Norm+Invitational+%E2%80%93+May+2022+GM%2FIM+Norm+Invitational+Chess+Tournament&amp;rft_id=http%3A%2F%2Fchessstream.com%2FInvitational%2FWinter-2018-GM-IM-Norm-Invitational%2FTournamentPairings.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.newindianexpress.com/sport/other/2019/jul/29/danish-feather-in-cap-for-dominant-praggnanandhaa-2010894.html">"Danish feather in cap for dominant Praggnanandhaa"</a>. <i>The New Indian Express</i>. <a rel="nofollow" class="external text" href="https://archive.today/20220601190852/https://www.newindianexpress.com/sport/other/2019/jul/29/danish-feather-in-cap-for-dominant-praggnanandhaa-2010894.html">Archived</a> from the original on 1 June 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+New+Indian+Express&amp;rft.atitle=Danish+feather+in+cap+for+dominant+Praggnanandhaa&amp;rft_id=https%3A%2F%2Fwww.newindianexpress.com%2Fsport%2Fother%2F2019%2Fjul%2F29%2Fdanish-feather-in-cap-for-dominant-praggnanandhaa-2010894.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://indianexpress.com/article/sports/sport-others/r-praggnanandhaa-crowned-u-18-champion-india-win-7-medals-at-world-youth-chess-championship-6066188/">"14-year-old R Praggnanandhaa crowned U-18 champion, India win 7 medals at World Youth Chess Championship"</a>. <i>The Indian Express</i>. 12 October 2019. <a rel="nofollow" class="external text" href="https://archive.today/20220601190348/https://indianexpress.com/article/sports/sport-others/r-praggnanandhaa-crowned-u-18-champion-india-win-7-medals-at-world-youth-chess-championship-6066188/">Archived</a> from the original on 1 June 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Indian+Express&amp;rft.atitle=14-year-old+R+Praggnanandhaa+crowned+U-18+champion%2C+India+win+7+medals+at+World+Youth+Chess+Championship&amp;rft.date=2019-10-12&amp;rft_id=https%3A%2F%2Findianexpress.com%2Farticle%2Fsports%2Fsport-others%2Fr-praggnanandhaa-crowned-u-18-champion-india-win-7-medals-at-world-youth-chess-championship-6066188%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.chessbase.in/news/Praggnanandhaa-youngest-2600-Indian-GM">"Praggnanandhaa becomes the youngest Indian to cross 2600 Elo ever, second youngest in the world"</a>. <i>ChessBase India</i>. 5 December 2019. <a rel="nofollow" class="external text" href="https://archive.today/20220601191230/https://www.chessbase.in/news/Praggnanandhaa-youngest-2600-Indian-GM">Archived</a> from the original on 1 June 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">27 May</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ChessBase+India&amp;rft.atitle=Praggnanandhaa+becomes+the+youngest+Indian+to+cross+2600+Elo+ever%2C+second+youngest+in+the+world&amp;rft.date=2019-12-05&amp;rft_id=https%3A%2F%2Fwww.chessbase.in%2Fnews%2FPraggnanandhaa-youngest-2600-Indian-GM&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-wins-polgar-challenge-with-a-round-to-spare/articleshow/82019558.cms">Praggnanandhaa wins Polgar Challenge with a round to spare</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210412130244/https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-wins-polgar-challenge-with-a-round-to-spare/articleshow/82019558.cms">Archived</a> 12 April 2021 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <i>The Times of India</i>.  11 April 2021.  Retrieved 12 October 2021.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://chess24.com/en/read/news/praggnanandhaa-powers-into-champions-chess-tour">Praggnanandhaa powers into Champions Chess Tour</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210413192816/https://chess24.com/en/read/news/praggnanandhaa-powers-into-champions-chess-tour">Archived</a> 13 April 2021 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.  <i>Chess24.com</i>.  12 April 2021.   Retrieved 12 October 2021.</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://en.chessbase.com/post/new-in-chess-classic-carlsen-wins-preliminaries">"New in Chess Classic: Carlsen wins preliminaries"</a>. <i>Chess News</i>. 27 April 2021. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210427120723/https://en.chessbase.com/post/new-in-chess-classic-carlsen-wins-preliminaries">Archived</a> from the original on 27 April 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">27 April</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Chess+News&amp;rft.atitle=New+in+Chess+Classic%3A+Carlsen+wins+preliminaries&amp;rft.date=2021-04-27&amp;rft_id=https%3A%2F%2Fen.chessbase.com%2Fpost%2Fnew-in-chess-classic-carlsen-wins-preliminaries&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.hindustantimes.com/sports/others/indias-r-praggnanandhaa-stuns-world-no-1-magnus-carlsen-in-airthings-masters-chess-101645424308875.html">"Praggnanandhaa upstages Carlsen in Airthings Masters chess"</a>. <i>Hindustan Times</i>. 21 February 2022. <a rel="nofollow" class="external text" href="https://archive.today/20220601192357/https://www.hindustantimes.com/sports/others/indias-r-praggnanandhaa-stuns-world-no-1-magnus-carlsen-in-airthings-masters-chess-101645424308875.html">Archived</a> from the original on 1 June 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">21 February</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hindustan+Times&amp;rft.atitle=Praggnanandhaa+upstages+Carlsen+in+Airthings+Masters+chess&amp;rft.date=2022-02-21&amp;rft_id=https%3A%2F%2Fwww.hindustantimes.com%2Fsports%2Fothers%2Findias-r-praggnanandhaa-stuns-world-no-1-magnus-carlsen-in-airthings-masters-chess-101645424308875.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://amp.scroll.in/field/1017894/chess-indian-gm-praggnanandhaa-defeats-world-champion-magnus-carlsen-at-airthings-masters">"Chess: Indian GM Praggnanandhaa defeats world champion Magnus Carlsen at Airthings Masters"</a>. <i>amp.scroll.in</i>. 21 February 2022. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220221185010/https://amp.scroll.in/field/1017894/chess-indian-gm-praggnanandhaa-defeats-world-champion-magnus-carlsen-at-airthings-masters">Archived</a> from the original on 21 February 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">22 February</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=amp.scroll.in&amp;rft.atitle=Chess%3A+Indian+GM+Praggnanandhaa+defeats+world+champion+Magnus+Carlsen+at+Airthings+Masters&amp;rft.date=2022-02-21&amp;rft_id=https%3A%2F%2Famp.scroll.in%2Ffield%2F1017894%2Fchess-indian-gm-praggnanandhaa-defeats-world-champion-magnus-carlsen-at-airthings-masters&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFDoggers_(PeterDoggers)" class="citation web cs1">Doggers (PeterDoggers), Peter. <a rel="nofollow" class="external text" href="https://www.chess.com/news/view/2022-aimchess-rapid-day-3">"Duda New Leader At Aimchess Rapid; Gukesh Youngest Player To Beat Carlsen"</a>. <i>Chess.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20221017164018/https://www.chess.com/news/view/2022-aimchess-rapid-day-3">Archived</a> from the original on 17 October 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">17 October</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Chess.com&amp;rft.atitle=Duda+New+Leader+At+Aimchess+Rapid%3B+Gukesh+Youngest+Player+To+Beat+Carlsen&amp;rft.aulast=Doggers+%28PeterDoggers%29&amp;rft.aufirst=Peter&amp;rft_id=https%3A%2F%2Fwww.chess.com%2Fnews%2Fview%2F2022-aimchess-rapid-day-3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://en.chessbase.com/post/aimchess-rapid-2022-d3">"Aimchess Rapid: Gukesh youngest-ever to beat Carlsen, Duda leads"</a>. <i>Chess News</i>. 16 October 2022. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20221017164023/https://en.chessbase.com/post/aimchess-rapid-2022-d3">Archived</a> from the original on 17 October 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">17 October</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Chess+News&amp;rft.atitle=Aimchess+Rapid%3A+Gukesh+youngest-ever+to+beat+Carlsen%2C+Duda+leads&amp;rft.date=2022-10-16&amp;rft_id=https%3A%2F%2Fen.chessbase.com%2Fpost%2Faimchess-rapid-2022-d3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:0-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_27-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.aninews.in/news/sports/others/indias-r-praggnanandhaa-stuns-world-champion-magnus-carlsen-for-second-time-in-year20220521142533/">"India's R Praggnanandhaa stuns World Champion Magnus Carlsen for second time in year"</a>. <i>ANI</i>. 21 May 2022. <a rel="nofollow" class="external text" href="https://archive.today/20220601192555/https://www.aninews.in/news/sports/others/indias-r-praggnanandhaa-stuns-world-champion-magnus-carlsen-for-second-time-in-year20220521142533/">Archived</a> from the original on 1 June 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">21 May</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ANI&amp;rft.atitle=India%27s+R+Praggnanandhaa+stuns+World+Champion+Magnus+Carlsen+for+second+time+in+year&amp;rft.date=2022-05-21&amp;rft_id=https%3A%2F%2Fwww.aninews.in%2Fnews%2Fsports%2Fothers%2Findias-r-praggnanandhaa-stuns-world-champion-magnus-carlsen-for-second-time-in-year20220521142533%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:1-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-:1_28-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://sports.ndtv.com/chess/r-praggnanandhaa-16-sails-into-semifinals-of-chessable-masters-3003431">"R Praggnanandhaa, 16, Sails Into Semifinals Of Chessable Masters | Chess News"</a>. <i>NDTVSports.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220524122305/https://sports.ndtv.com/chess/r-praggnanandhaa-16-sails-into-semifinals-of-chessable-masters-3003431">Archived</a> from the original on 24 May 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">24 May</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=NDTVSports.com&amp;rft.atitle=R+Praggnanandhaa%2C+16%2C+Sails+Into+Semifinals+Of+Chessable+Masters+%7C+Chess+News&amp;rft_id=https%3A%2F%2Fsports.ndtv.com%2Fchess%2Fr-praggnanandhaa-16-sails-into-semifinals-of-chessable-masters-3003431&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFRakesh_Rao2022" class="citation web cs1">Rakesh Rao (25 May 2022). <a rel="nofollow" class="external text" href="https://www.thehindu.com/sport/other-sports/chessable-masters-praggnanandhaa-shocks-anish-giri-meets-ding-liren-in-final/article65459300.ece">"Chessable Masters: Praggnanandhaa shocks Anish Giri, meets Ding Liren in final"</a>. <i><a href="/wiki/The_Hindu" title="The Hindu">The Hindu</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220525235626/https://www.thehindu.com/sport/other-sports/chessable-masters-praggnanandhaa-shocks-anish-giri-meets-ding-liren-in-final/article65459300.ece">Archived</a> from the original on 25 May 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">25 May</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Hindu&amp;rft.atitle=Chessable+Masters%3A+Praggnanandhaa+shocks+Anish+Giri%2C+meets+Ding+Liren+in+final&amp;rft.date=2022-05-25&amp;rft.au=Rakesh+Rao&amp;rft_id=https%3A%2F%2Fwww.thehindu.com%2Fsport%2Fother-sports%2Fchessable-masters-praggnanandhaa-shocks-anish-giri-meets-ding-liren-in-final%2Farticle65459300.ece&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://en.chessbase.com/post/ftx-crypto-cup-2022-live">"FTX Crypto Cup: Games and standings"</a>. <i>Chess News</i>. 21 August 2022. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220822152649/https://en.chessbase.com/post/ftx-crypto-cup-2022-live">Archived</a> from the original on 22 August 2022<span class="reference-accessdate">. Retrieved <span class="nowrap">22 August</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Chess+News&amp;rft.atitle=FTX+Crypto+Cup%3A+Games+and+standings&amp;rft.date=2022-08-21&amp;rft_id=https%3A%2F%2Fen.chessbase.com%2Fpost%2Fftx-crypto-cup-2022-live&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://tatasteelchess.com/news/both-carlsen-and-ding-defeated-round-4/">"Both Carlsen and Ding defeated | Round 4"</a>. <i>Tata Steel Chess Tournament 2023</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230326225952/https://tatasteelchess.com/news/both-carlsen-and-ding-defeated-round-4/">Archived</a> from the original on 26 March 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">26 March</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Tata+Steel+Chess+Tournament+2023&amp;rft.atitle=Both+Carlsen+and+Ding+defeated+%7C+Round+4&amp;rft_id=https%3A%2F%2Ftatasteelchess.com%2Fnews%2Fboth-carlsen-and-ding-defeated-round-4%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://tatasteelchess.com/standings-masters/">"Standings – Tata Steel Chess Tournament"</a>. <i>Tata Steel Chess Tournament 2023</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230401080733/https://tatasteelchess.com/standings-masters/">Archived</a> from the original on 1 April 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">26 March</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Tata+Steel+Chess+Tournament+2023&amp;rft.atitle=Standings+%E2%80%93+Tata+Steel+Chess+Tournament&amp;rft_id=https%3A%2F%2Ftatasteelchess.com%2Fstandings-masters%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.hindustantimes.com/sports/others/chess-world-cup-2023-india-r-praggnanandhaa-defeats-fabiano-caruana-to-set-up-final-against-magnus-carlsen-101692632595474.html">"Chess World Cup 2023: India's Praggnanandhaa defeats Fabiano Caruana in tiebreaks, sets up final with Magnus Carlsen"</a>. <i>Hindustan Times</i>. 21 August 2023. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230821161753/https://www.hindustantimes.com/sports/others/chess-world-cup-2023-india-r-praggnanandhaa-defeats-fabiano-caruana-to-set-up-final-against-magnus-carlsen-101692632595474.html">Archived</a> from the original on 21 August 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">21 August</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hindustan+Times&amp;rft.atitle=Chess+World+Cup+2023%3A+India%27s+Praggnanandhaa+defeats+Fabiano+Caruana+in+tiebreaks%2C+sets+up+final+with+Magnus+Carlsen&amp;rft.date=2023-08-21&amp;rft_id=https%3A%2F%2Fwww.hindustantimes.com%2Fsports%2Fothers%2Fchess-world-cup-2023-india-r-praggnanandhaa-defeats-fabiano-caruana-to-set-up-final-against-magnus-carlsen-101692632595474.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://indianexpress.com/article/sports/chess/chess-world-cup-2023-semi-final-live-updates-praggnanandhaa-caruana-carlsen-abasov-8899679/">"Chess World Cup 2023 Semi-Final LIVE: Praggnanandhaa defeats Caruana to seal final against Magnus Carlsen"</a>. <i>The Indian Express</i>. 19 August 2023. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20230820104722/https://indianexpress.com/article/sports/chess/chess-world-cup-2023-semi-final-live-updates-praggnanandhaa-caruana-carlsen-abasov-8899679/">Archived</a> from the original on 20 August 2023<span class="reference-accessdate">. Retrieved <span class="nowrap">21 August</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Indian+Express&amp;rft.atitle=Chess+World+Cup+2023+Semi-Final+LIVE%3A+Praggnanandhaa+defeats+Caruana+to+seal+final+against+Magnus+Carlsen&amp;rft.date=2023-08-19&amp;rft_id=https%3A%2F%2Findianexpress.com%2Farticle%2Fsports%2Fchess%2Fchess-world-cup-2023-semi-final-live-updates-praggnanandhaa-caruana-carlsen-abasov-8899679%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://sportslumo.com/other-sports/russian-grandmaster-peter-svidler-to-assist-r-praggnanandhaa-in-maiden-candidates-tournament/">"Russian Grandmaster Peter Svidler to assist R. Praggnanandhaa in maiden candidates tournament"</a>. <i>Sportslumo</i>. 2 April 2024<span class="reference-accessdate">. Retrieved <span class="nowrap">7 April</span> 2024</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Sportslumo&amp;rft.atitle=Russian+Grandmaster+Peter+Svidler+to+assist+R.+Praggnanandhaa+in+maiden+candidates+tournament&amp;rft.date=2024-04-02&amp;rft_id=https%3A%2F%2Fsportslumo.com%2Fother-sports%2Frussian-grandmaster-peter-svidler-to-assist-r-praggnanandhaa-in-maiden-candidates-tournament%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"> <a rel="nofollow" class="external free" href="https://www.chess.com/news/view/2024-norway-chess-round-3">https://www.chess.com/news/view/2024-norway-chess-round-3</a> </span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.news18.com/sports/cnn-news18-indian-of-the-year-2023-r-praggnanandhaa-wins-rising-sportstar-of-the-year-8735191.html">"CNN-News18 Indian of the Year 2023: R Praggnanandhaa Wins Rising Sportstar Award"</a>. <i><a href="/wiki/CNN-News18" title="CNN-News18">CNN-News18</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 January</span> 2024</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNN-News18&amp;rft.atitle=CNN-News18+Indian+of+the+Year+2023%3A+R+Praggnanandhaa+Wins+Rising+Sportstar+Award&amp;rft_id=https%3A%2F%2Fwww.news18.com%2Fsports%2Fcnn-news18-indian-of-the-year-2023-r-praggnanandhaa-wins-rising-sportstar-of-the-year-8735191.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AR+Praggnanandhaa" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=R_Praggnanandhaa&amp;action=edit&amp;section=15" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1217611005">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <a href="https://commons.wikimedia.org/wiki/Category:Praggnanandhaa_Rameshbabu" class="extiw" title="commons:Category:Praggnanandhaa Rameshbabu"><span style="font-style:italic; font-weight:bold;">Praggnanandhaa Rameshbabu</span></a>.</div></div>
+</div>
+<ul><li><a rel="nofollow" class="external text" href="https://ratings.fide.com/profile/25059530">Praggnanandhaa R</a> rating card at <a href="/wiki/FIDE" title="FIDE">FIDE</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q26703041#P1440" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></li>
+<li><a rel="nofollow" class="external text" href="https://www.chess.com/players/praggnanandhaa-r">Praggnanandhaa R</a> player profile at <a href="/wiki/Chess.com" title="Chess.com">Chess.com</a></li>
+<li><a rel="nofollow" class="external text" href="https://lichess.org/@/Praggnanandhaachess">R Praggnanandhaa</a> member profile at <a href="/wiki/Lichess" title="Lichess">Lichess</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.365chess.com/players/Praggnanandhaa_R">Praggnanandhaa R</a> chess games at 365Chess.com</li>
+<li><a rel="nofollow" class="external text" href="https://www.chessgames.com/perl/chessplayer?pid=151629">Rameshbabu Praggnanandhaa</a> player profile and games at <a href="/wiki/Chessgames.com" title="Chessgames.com">Chessgames.com</a></li>
+<li><a rel="nofollow" class="external text" href="https://twitter.com/rpragchess">Praggnanandhaa</a> on <a href="/wiki/Twitter_(identifier)" class="mw-redirect" title="Twitter (identifier)">Twitter</a></li></ul>
+<table class="wikitable succession-box noprint" style="margin:0.5em auto; font-size:small;clear:both;">
+
+
+<tbody><tr>
+<th colspan="3" style="border-top: 5px solid #FFF179;">Achievements
+</th></tr>
+
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<div style="font-weight: bold"><a href="/wiki/Parimarjan_Negi" title="Parimarjan Negi">Parimarjan Negi</a></div>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b> Youngest ever Indian Grandmaster </b><br />2018–2019
+</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<div style="font-weight: bold"><a href="/wiki/Gukesh_D" title="Gukesh D">Gukesh D</a></div>
+</td></tr>
+
+
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<div style="font-weight: bold"><a href="/wiki/L%C3%AA_Quang_Li%C3%AAm" title="Lê Quang Liêm">Lê Quang Liêm</a></div>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Asian_Chess_Championship" title="Asian Chess Championship">Asian Chess Champion</a> </b><br />2022
+</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<div style="font-weight: bold"><a href="/wiki/Shamsiddin_Vokhidov" title="Shamsiddin Vokhidov">Shamsiddin Vokhidov</a></div>
+</td></tr>
+</tbody></table>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Indian_Grandmasters" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#FFDEAD"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Indian_GMs" title="Template:Indian GMs"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Indian_GMs" title="Template talk:Indian GMs"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Indian_GMs" title="Special:EditPage/Template:Indian GMs"><abbr title="Edit this template">e</abbr></a></li></ul></div><div id="Indian_Grandmasters" style="font-size:114%;margin:0 4em"><a href="/wiki/India" title="India">Indian</a> <a href="/wiki/Grandmaster_(chess)" title="Grandmaster (chess)">Grandmasters</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background:#FFDEAD"><div>Chess players for <a href="/wiki/India" title="India">India</a> with the <a href="/wiki/FIDE_titles" title="FIDE titles">FIDE title</a> of Grandmaster (GM)</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Abhijeet_Gupta" title="Abhijeet Gupta">Abhijeet Gupta</a></li>
+<li><a href="/wiki/Abhijit_Kunte" title="Abhijit Kunte">Abhijit Kunte</a></li>
+<li><a href="/wiki/Adhiban_Baskaran" title="Adhiban Baskaran">Adhiban Baskaran</a></li>
+<li><a href="/wiki/Aditya_Mittal_(chess_player)" title="Aditya Mittal (chess player)">Aditya Mittal</a></li>
+<li><a href="/wiki/Aditya_Samant" title="Aditya Samant">Aditya Samant</a></li>
+<li><a href="/wiki/Akshayraj_Kore" title="Akshayraj Kore">Akshayraj Kore</a></li>
+<li><a href="/wiki/Ankit_Rajpara" title="Ankit Rajpara">Ankit Rajpara</a></li>
+<li><a href="/wiki/Anurag_Mhamal" title="Anurag Mhamal">Anurag Mhamal</a></li>
+<li><a href="/wiki/Aravindh_Chithambaram" title="Aravindh Chithambaram">Aravindh Chithambaram</a></li>
+<li><a href="/wiki/Arjun_Erigaisi" title="Arjun Erigaisi">Arjun Erigaisi</a></li>
+<li><a href="/wiki/Arjun_Kalyan" title="Arjun Kalyan">Arjun Kalyan</a></li>
+<li><a href="/wiki/Aryan_Chopra" title="Aryan Chopra">Aryan Chopra</a></li>
+<li><a href="/wiki/Ashwin_Jayaram" title="Ashwin Jayaram">Ashwin Jayaram</a></li>
+<li><a href="/wiki/Bharath_Subramaniyam" title="Bharath Subramaniyam">Bharath Subramaniyam</a></li>
+<li><a href="/wiki/Debashis_Das" title="Debashis Das">Debashis Das</a></li>
+<li><a href="/wiki/Deep_Sengupta" title="Deep Sengupta">Deep Sengupta</a></li>
+<li><a href="/wiki/Dibyendu_Barua" title="Dibyendu Barua">Dibyendu Barua</a></li>
+<li><a href="/wiki/Diptayan_Ghosh" title="Diptayan Ghosh">Diptayan Ghosh</a></li>
+<li><a href="/wiki/G._Akash" title="G. Akash">G. Akash</a></li>
+<li><a href="/wiki/Geetha_Narayanan_Gopal" title="Geetha Narayanan Gopal">Geetha Narayanan Gopal</a></li>
+<li><a href="/wiki/Girish_A._Koushik" class="mw-redirect" title="Girish A. Koushik">Girish A. Koushik</a></li>
+<li><a href="/wiki/Gukesh_D" title="Gukesh D">Gukesh D</a></li>
+<li><a href="/wiki/Harika_Dronavalli" title="Harika Dronavalli">Harika Dronavalli</a></li>
+<li><a href="/wiki/Harsha_Bharathakoti" title="Harsha Bharathakoti">Harsha Bharathakoti</a></li>
+<li><a href="/wiki/Harshit_Raja" title="Harshit Raja">Harshit Raja</a></li>
+<li><a href="/wiki/Himanshu_Sharma_(chess_player)" title="Himanshu Sharma (chess player)">Himanshu Sharma</a></li>
+<li><a href="/wiki/J._Deepan_Chakkravarthy" title="J. Deepan Chakkravarthy">J. Deepan Chakkravarthy</a></li>
+<li><a href="/wiki/Karthik_Venkataraman" title="Karthik Venkataraman">Karthik Venkataraman</a></li>
+<li><a href="/wiki/Karthikeyan_Murali" title="Karthikeyan Murali">Karthikeyan Murali</a></li>
+<li><a href="/wiki/Karthikeyan_Pandian" title="Karthikeyan Pandian">Karthikeyan Pandian</a></li>
+<li><a href="/wiki/Koneru_Humpy" title="Koneru Humpy">Koneru Humpy</a></li>
+<li><a href="/wiki/Koustav_Chatterjee" title="Koustav Chatterjee">Koustav Chatterjee</a></li>
+<li><a href="/wiki/Krishnan_Sasikiran" title="Krishnan Sasikiran">Krishnan Sasikiran</a></li>
+<li><a href="/wiki/Laxman_Rajaram" title="Laxman Rajaram">Laxman Rajaram</a></li>
+<li><a href="/wiki/Leon_Luke_Mendonca" title="Leon Luke Mendonca">Leon Luke Mendonca</a></li>
+<li><a href="/wiki/M._R._Lalith_Babu" title="M. R. Lalith Babu">M. R. Lalith Babu</a></li>
+<li><a href="/wiki/Magesh_Chandran_Panchanathan" title="Magesh Chandran Panchanathan">Magesh Chandran Panchanathan</a></li>
+<li><a href="/wiki/Mitrabha_Guha" title="Mitrabha Guha">Mitrabha Guha</a></li>
+<li><a href="/wiki/Neelotpal_Das" title="Neelotpal Das">Neelotpal Das</a></li>
+<li><a href="/wiki/Nihal_Sarin" title="Nihal Sarin">Nihal Sarin</a></li>
+<li><a href="/wiki/P._Iniyan" title="P. Iniyan">P. Iniyan</a></li>
+<li><a href="/wiki/Parimarjan_Negi" title="Parimarjan Negi">Parimarjan Negi</a></li>
+<li><a href="/wiki/Abhimanyu_Puranik" title="Abhimanyu Puranik">Abhimanyu Puranik</a></li>
+<li><a href="/wiki/Pentala_Harikrishna" title="Pentala Harikrishna">Pentala Harikrishna</a></li>
+<li><a href="/wiki/Pranav_Anand" title="Pranav Anand">Pranav Anand</a></li>
+<li><a href="/wiki/Pranav_V" title="Pranav V">Pranav V</a></li>
+<li><a href="/wiki/Pranesh_M" title="Pranesh M">Pranesh M</a></li>
+<li><a href="/wiki/Pravin_Thipsay" title="Pravin Thipsay">Pravin Thipsay</a></li>
+<li><a href="/wiki/Prithu_Gupta" title="Prithu Gupta">Prithu Gupta</a></li>
+<li><a href="/wiki/Priyadharshan_Kannappan" title="Priyadharshan Kannappan">Priyadharshan Kannappan</a></li>
+<li><a href="/wiki/Prraneeth_Vuppala" title="Prraneeth Vuppala">Prraneeth Vuppala</a></li>
+<li><a href="/wiki/Rahul_Srivatshav_Peddi" title="Rahul Srivatshav Peddi">Rahul Srivatshav Peddi</a></li>
+<li><a href="/wiki/Raja_Rithvik_R" title="Raja Rithvik R">Raja Rithvik R</a></li>
+<li><a href="/wiki/Ramachandran_Ramesh" title="Ramachandran Ramesh">Ramachandran Ramesh</a></li>
+<li><a href="/wiki/Raunak_Sadhwani" title="Raunak Sadhwani">Raunak Sadhwani</a></li>
+<li><a class="mw-selflink selflink">R Praggnanandhaa</a></li>
+<li><a href="/wiki/R_Vaishali" title="R Vaishali">R Vaishali</a></li>
+<li><a href="/wiki/S._L._Narayanan" title="S. L. Narayanan">S. L. Narayanan</a></li>
+<li><a href="/wiki/S._P._Sethuraman" title="S. P. Sethuraman">S. P. Sethuraman</a></li>
+<li><a href="/wiki/Sahaj_Grover" title="Sahaj Grover">Sahaj Grover</a></li>
+<li><a href="/wiki/Sandipan_Chanda" title="Sandipan Chanda">Sandipan Chanda</a></li>
+<li><a href="/wiki/Sankalp_Gupta" title="Sankalp Gupta">Sankalp Gupta</a></li>
+<li><a href="/wiki/Saptarshi_Roy" title="Saptarshi Roy">Saptarshi Roy</a></li>
+<li><a href="/wiki/Saptarshi_Roy_Chowdhury" title="Saptarshi Roy Chowdhury">Saptarshi Roy Chowdhury</a></li>
+<li><a href="/wiki/Sayantan_Das" title="Sayantan Das">Sayantan Das</a></li>
+<li><a href="/wiki/Shardul_Gagare" title="Shardul Gagare">Shardul Gagare</a></li>
+<li><a href="/wiki/Shyam_Sundar_M." title="Shyam Sundar M.">Shyam Sundar M.</a></li>
+<li><a href="/wiki/Srinath_Narayanan" title="Srinath Narayanan">Srinath Narayanan</a></li>
+<li><a href="/wiki/Sriram_Jha" title="Sriram Jha">Sriram Jha</a></li>
+<li><a href="/wiki/Stany_G.A." title="Stany G.A.">Stany G.A.</a></li>
+<li><a href="/wiki/Subramanian_Arun_Prasad" title="Subramanian Arun Prasad">Subramanian Arun Prasad</a></li>
+<li><a href="/wiki/Sundararajan_Kidambi" title="Sundararajan Kidambi">Sundararajan Kidambi</a></li>
+<li><a href="/wiki/Surya_Shekhar_Ganguly" title="Surya Shekhar Ganguly">Surya Shekhar Ganguly</a></li>
+<li><a href="/wiki/Swapnil_Dhopade" title="Swapnil Dhopade">Swapnil Dhopade</a></li>
+<li><a href="/wiki/Swayams_Mishra" title="Swayams Mishra">Swayams Mishra</a></li>
+<li><a href="/wiki/Tejas_Bakre" title="Tejas Bakre">Tejas Bakre</a></li>
+<li><a href="/wiki/Thejkumar_M._S." title="Thejkumar M. S.">Thejkumar M. S.</a></li>
+<li><a href="/wiki/Vaibhav_Suri" title="Vaibhav Suri">Vaibhav Suri</a></li>
+<li><a href="/wiki/Venkatesh_M._R." title="Venkatesh M. R.">Venkatesh M. R.</a></li>
+<li><a href="/wiki/Vidit_Gujrathi" title="Vidit Gujrathi">Vidit Gujrathi</a></li>
+<li><a href="/wiki/Vignesh_N._R." title="Vignesh N. R.">Vignesh N. R.</a></li>
+<li><a href="/wiki/Visakh_N._R." title="Visakh N. R.">Visakh N. R.</a></li>
+<li><a href="/wiki/Vishnu_Prasanna_V." title="Vishnu Prasanna V.">Vishnu Prasanna V.</a></li>
+<li><a href="/wiki/Viswanathan_Anand" title="Viswanathan Anand">Viswanathan Anand</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background:#FFDEAD"><div>
+<ul><li>See also: <a href="/wiki/List_of_chess_grandmasters" title="List of chess grandmasters">List of chess grandmasters</a></li>
+<li><a href="/wiki/List_of_Indian_chess_players#Grandmasters" title="List of Indian chess players">List of Indian chess players §&#160;Grandmasters</a></li>
+<li><a href="/wiki/Chess_in_India" title="Chess in India">Chess in India</a></li>
+<li><a href="/wiki/Category:Indian_chess_players" title="Category:Indian chess players">Category:Indian chess players</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐68bcfdb6bf‐gsjvk
+Cached time: 20240601144446
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.682 seconds
+Real time usage: 0.985 seconds
+Preprocessor visited node count: 12560/1000000
+Post‐expand include size: 107527/2097152 bytes
+Template argument size: 7406/2097152 bytes
+Highest expansion depth: 20/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 145466/5000000 bytes
+Lua time usage: 0.406/10.000 seconds
+Lua memory usage: 10386632/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  889.994      1 -total
+ 25.77%  229.358      1 Template:Reflist
+ 22.67%  201.733      1 Template:Infobox_chess_biography
+ 22.31%  198.562      1 Template:Infobox
+ 19.15%  170.473     28 Template:Cite_web
+ 15.01%  133.562      1 Template:Short_description
+ 12.34%  109.787     18 Template:Main_other
+  9.28%   82.618      1 Template:SDcat
+  8.53%   75.920      1 Template:Indian_grandmasters
+  8.14%   72.439      1 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:51204074-0!canonical and timestamp 20240601144446 and revision id 1226389347. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=R_Praggnanandhaa&amp;oldid=1226389347">https://en.wikipedia.org/w/index.php?title=R_Praggnanandhaa&amp;oldid=1226389347</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:2005_births" title="Category:2005 births">2005 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Tamil_sportspeople" title="Category:Tamil sportspeople">Tamil sportspeople</a></li><li><a href="/wiki/Category:Indian_chess_players" title="Category:Indian chess players">Indian chess players</a></li><li><a href="/wiki/Category:Chess_Grandmasters" title="Category:Chess Grandmasters">Chess Grandmasters</a></li><li><a href="/wiki/Category:World_Youth_Chess_Champions" title="Category:World Youth Chess Champions">World Youth Chess Champions</a></li><li><a href="/wiki/Category:Chess_Olympiad_competitors" title="Category:Chess Olympiad competitors">Chess Olympiad competitors</a></li><li><a href="/wiki/Category:Recipients_of_the_Arjuna_Award" title="Category:Recipients of the Arjuna Award">Recipients of the Arjuna Award</a></li><li><a href="/wiki/Category:Chess_players_at_the_2022_Asian_Games" title="Category:Chess players at the 2022 Asian Games">Chess players at the 2022 Asian Games</a></li><li><a href="/wiki/Category:Asian_Games_medalists_in_chess" title="Category:Asian Games medalists in chess">Asian Games medalists in chess</a></li><li><a href="/wiki/Category:Asian_Games_silver_medalists_for_India" title="Category:Asian Games silver medalists for India">Asian Games silver medalists for India</a></li><li><a href="/wiki/Category:Medalists_at_the_2022_Asian_Games" title="Category:Medalists at the 2022 Asian Games">Medalists at the 2022 Asian Games</a></li><li><a href="/wiki/Category:Sportspeople_from_Chennai" title="Category:Sportspeople from Chennai">Sportspeople from Chennai</a></li><li><a href="/wiki/Category:21st-century_chess_players" title="Category:21st-century chess players">21st-century chess players</a></li><li><a href="/wiki/Category:21st-century_Indian_people" title="Category:21st-century Indian people">21st-century Indian people</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_August_2023" title="Category:Use dmy dates from August 2023">Use dmy dates from August 2023</a></li><li><a href="/wiki/Category:Use_Indian_English_from_April_2018" title="Category:Use Indian English from April 2018">Use Indian English from April 2018</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_Indian_English" title="Category:All Wikipedia articles written in Indian English">All Wikipedia articles written in Indian English</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 30 May 2024, at 09:40<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=R_Praggnanandhaa&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-68bcfdb6bf-8kdp8","wgBackendResponseTime":132,"wgPageParseReport":{"limitreport":{"cputime":"0.682","walltime":"0.985","ppvisitednodes":{"value":12560,"limit":1000000},"postexpandincludesize":{"value":107527,"limit":2097152},"templateargumentsize":{"value":7406,"limit":2097152},"expansiondepth":{"value":20,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":145466,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  889.994      1 -total"," 25.77%  229.358      1 Template:Reflist"," 22.67%  201.733      1 Template:Infobox_chess_biography"," 22.31%  198.562      1 Template:Infobox"," 19.15%  170.473     28 Template:Cite_web"," 15.01%  133.562      1 Template:Short_description"," 12.34%  109.787     18 Template:Main_other","  9.28%   82.618      1 Template:SDcat","  8.53%   75.920      1 Template:Indian_grandmasters","  8.14%   72.439      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.406","limit":"10.000"},"limitreport-memusage":{"value":10386632,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-68bcfdb6bf-gsjvk","timestamp":"20240601144446","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"R Praggnanandhaa","url":"https:\/\/en.wikipedia.org\/wiki\/R_Praggnanandhaa","sameAs":"http:\/\/www.wikidata.org\/entity\/Q26703041","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q26703041","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-07-30T13:36:58Z","dateModified":"2024-05-30T09:40:24Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f8\/Fabiano_Caruana_-_R_Praggnanandhaa%2C_Candidates_Tournament_2024_02_%28cropped%29.jpg","headline":"Indian chess player"}</script>
+</body>
+</html>
